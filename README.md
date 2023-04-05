@@ -55,7 +55,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **On refresh page get a random greeting**
+- **On refreshing the page, get a random greeting**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
